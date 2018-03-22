@@ -8,7 +8,7 @@ int main()
 {
 	//function calling
 	message1();
-	message2();
+	message2(); 
 }
 
 //function definition
